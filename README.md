@@ -1,11 +1,8 @@
-# ECE 9069: Introduction to Hacking
+# Hashcat Presentation Notes
 -----------------------------------
-## Hashcat Presentation Notes
+## For ECE 9069: Introduction to Hacking (Cybersecurity) course, during master's degree in Software Engg. at Western University, ON, Canada
 ___________________________________
 
-### Gurpreet Singh Saluja (gsaluja2@uwo.ca)
-### Varun Shivarama Bhat (vbhat2@uwo.ca)
-___________________________________
 ## Hashcat Tool
 * Hashcat is a Password recovery(a.k.a Password cracking) tool. 
 * It is open-source and multi-platform(Windows, Linux, MacOS).
